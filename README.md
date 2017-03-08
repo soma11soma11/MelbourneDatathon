@@ -1,1 +1,0 @@
-I and my friend, George joined a Kaggle competition.
